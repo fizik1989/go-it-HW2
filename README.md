@@ -1,3 +1,3 @@
-# go-it-HW1
+# go-it-HW2
 
-this is my first progect
+this is hw2
